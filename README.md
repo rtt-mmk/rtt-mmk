@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 - look@space :-)
+
+<a href="http://realtimetec.de"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="100%" height="100%"></a>
 
 <!--
 **rtt-mmk/rtt-mmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
